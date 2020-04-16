@@ -1,4 +1,4 @@
-# frases_do_dia
+# Preview
 App with random phrases.
 
-![](assets/images/frases1.jpg)
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
